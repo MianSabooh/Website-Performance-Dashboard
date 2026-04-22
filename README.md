@@ -97,8 +97,8 @@ The dataset includes:
 
 ## 👨‍💻 Author
 
-**Your Name**  
-BS Computer Science Student  
+**Mian Fazli Sabooh**  
+ 
 
 ---
 
