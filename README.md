@@ -1,6 +1,6 @@
 # 🌐 Website Performance Dashboard (Power BI)
 
-![Dashboard Preview](websiteAnalysis.png)
+![Dashboard Preview](dashboard%20website%20analysis/websiteAnalysis.png)
 
 ## 📌 Project Overview
 This project presents an interactive **Website Performance Dashboard** built using **Power BI**.  
